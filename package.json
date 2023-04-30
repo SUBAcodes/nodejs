@@ -2,7 +2,7 @@
 {
   "scripts": {
       "start": "node main.js",
-      "dev": "nodemon main.js"
+      "dev": "nodemon server.js"
   },
   "dependencies": {
     "nodemon": "^2.0.22"
